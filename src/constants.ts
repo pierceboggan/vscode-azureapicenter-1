@@ -22,3 +22,10 @@ export enum CICDType {
     github = "GitHub",
     azure = "Azure DevOps",
 }
+
+export enum APIItem {
+    APIVer = "API Version",
+    APIName = "API Name",
+    APIType = "API Type",
+    APIStatus = "API Status",
+}
